@@ -2,7 +2,7 @@
 
 A collection of simple Python scripts demonstrating file handling capabilities, including reading from and writing to files.
 
-## Features
+## Features  
 
 - Read and analyze digits of π
     - Check if a birthday sequence appears in π
